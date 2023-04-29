@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdixitji" alt="kdixitji" /></a> </p>
 
-- 🔭 I’m currently working on **Expense-Tracker**
+- 🔭 I’m currently working on **Contact-Manager App**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
